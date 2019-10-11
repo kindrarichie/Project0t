@@ -51,7 +51,7 @@
 
   - name: clone project0 repo
     git:
-      repo: https://github.com/alexcoward/Project0.git
+      repo: https://github.com/kindrarichie/Project0t.git
       dest: /tmp/project0
 
   - name: copy apache2 config files
